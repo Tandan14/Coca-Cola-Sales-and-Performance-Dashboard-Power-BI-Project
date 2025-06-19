@@ -32,7 +32,7 @@ When Beverage Brand is Coca-Cola,the average Operating Profit is 501.26 units hi
 
 **Dashboard Preview**
 
-images![Coca-Cola Sales Dashboard images](https://github.com/user-attachments/assets/ec85f2ec-aa15-42ef-a989-83890ef41baf)
+[Coca-Cola Sales Dashboard images](https://github.com/user-attachments/assets/ec85f2ec-aa15-42ef-a989-83890ef41baf)
 
 
 **Acknowledgements**
